@@ -1,0 +1,1 @@
+print("Dinga is in love with Dingi")
